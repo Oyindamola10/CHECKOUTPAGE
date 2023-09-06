@@ -1,0 +1,10 @@
+#buTTon{
+    margin-bottom: 15px;
+    position: relative;
+    left: 300px;
+    background-color: orange;
+}
+
+.vintage{
+    display: flex;
+}
