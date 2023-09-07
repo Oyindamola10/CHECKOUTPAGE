@@ -5,6 +5,62 @@
     background-color: orange;
 }
 
-.vintage{
+.parentCon{
+    padding-top: 40px;
+}
+
+.cardCon{
+    padding-top: 70px;
+    box-sizing: border-box;
+    padding-right: 10px;
+}
+
+.price{
+    color: #F2A45F;
+    font-size: 14px;
+
+
+}
+
+.price span{
+    color: black !important;
+}
+
+.cardImg{
+    margin-bottom: 15px;
+    border-radius: 40px;
+}
+
+
+
+.shippingFee span{
+    padding-left: 300px;
+}
+
+.shippingFee1 span{
+    padding-left: 330px;
+}
+
+.actionBtn{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.actionBtn p{
+    padding-top: 10px;
+}
+
+.bTn{
+    background-color: gray;
+    border: none;
+    border-radius: 6px;
+    height: 24px;
+    width: 24px;
+    font-size: 13px;
+    color: #fff;
+    
+
 }
