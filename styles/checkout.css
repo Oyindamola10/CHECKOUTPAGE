@@ -4,10 +4,10 @@
     
 }
 
-.card {
+/* .card {
     width: 500px;
     
-}
+} */
 
 .card, .topCon, .btnCon{
     display: flex;
